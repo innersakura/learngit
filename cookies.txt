@@ -1,0 +1,6 @@
+.qq.com	TRUE	/	FALSE	pgv_info	ssid=s196237843
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvi	5129395200
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvid	1622576230
+.qq.com	TRUE	/	FALSE	pgv_si	s7997931520
+.qq.com	TRUE	/	FALSE	zcFrom	
+.zc.open.qq.com	TRUE	/	FALSE	1446194284	zcHomeTopTipsFirst	false
