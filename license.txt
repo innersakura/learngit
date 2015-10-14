@@ -1,0 +1,13 @@
+.qq.com	TRUE	/	FALSE	1758962358	RK	zR/mS6GsuB
+.qq.com	TRUE	/	FALSE	pgv_info	ssid=s186408619
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvi	4779534336
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvid	6205156266
+.qq.com	TRUE	/	FALSE	pgv_si	s6610319360
+.qq.com	TRUE	/	FALSE	1577923200	pt2gguin	o2211675583
+.qq.com	TRUE	/	FALSE	1577923200	ptcz	ad5d761a791df1e68fd38b843d95974650ce2e98a95e790e4f177cc843c51769
+.qq.com	TRUE	/	FALSE	ptisp	ctc
+.qq.com	TRUE	/	FALSE	1446194358	ptui_loginuin	2211675583
+.qq.com	TRUE	/	FALSE	skey	@kjT55FoFQ
+.qq.com	TRUE	/	FALSE	uin	o2211675583
+.qq.com	TRUE	/	FALSE	zcFrom	
+.zc.open.qq.com	TRUE	/	FALSE	1446194340	zcHomeTopTipsFirst	false
